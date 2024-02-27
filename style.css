@@ -1,0 +1,101 @@
+*{
+    font-family: arial;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./Macbook\ 1.png);
+    background-size: cover;
+    background-position: ce;
+    background-repeat: no-repeat;
+
+    display: grid;
+    grid-template-columns: 70%;
+    justify-content: center;
+    align-content: center;
+}
+.heading{
+    color: aqua;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: center;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+    margin-bottom: 25px;
+}
+.description{
+    color: darkred;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 6px;
+}
+.timer{
+ width: 100%;
+ display: flex; 
+ justify-content: space-between;
+ margin-top: 30px;  
+}
+.sub_time{
+    width: 220px;
+    background: rgb(245, 241, 241);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+    overflow: hidden;
+}
+.digit{
+    color: rgb(123, 4, 0);
+    font-weight: lighter;
+    font-size: 70px;
+    text-align: center;
+    padding: 2.5rem;
+}
+.digit_name{
+    color: rgb(3, 2, 43);
+    background: rgba(11, 2, 59, 0.023);
+    text-align: center;
+    padding: o.6rem 0;
+    font-size: 20px;
+}
+
+button{
+    width: 15%;
+    height: 35px;
+    background-color: brown;
+    border-radius: 5px;
+    font-size: 20px;
+}
+button a{
+    color: white;
+
+}
+button a:hover{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
